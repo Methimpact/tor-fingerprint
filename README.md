@@ -12,3 +12,4 @@ The Tor-project was contacted in Jan 2016. But no changes has been made since th
 * [Browserleaks](https://www.browserleaks.com/firefox)
 * [Chamelon](https://github.com/ghostwords/chameleon)
 * [Panopticlick](https://panopticlick.eff.org/)
+* [Jose Carlos Norte](http://jcarlosnorte.com/security/2016/03/06/advanced-tor-browser-fingerprinting.html)
